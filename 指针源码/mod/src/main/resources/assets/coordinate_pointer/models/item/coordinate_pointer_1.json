@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "coordinate_pointer:item/coordinate_pointer_1"
+  }
+}
